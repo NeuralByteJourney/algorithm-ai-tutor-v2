@@ -182,3 +182,6 @@ Example modules (planned):
 Tests will live in: `tests/`
 
 ---
+👤 Author
+
+Created by NeuralByteJourney as a learning and portfolio project, inspired by the Agentic AI course and modern best practices for AI agents
